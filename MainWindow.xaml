@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <StackPanel Height="200" >
-            <TextBlock TextAlignment="Center" >GUIAPP</TextBlock>
+            <TextBlock TextAlignment="Center" >GUIAPP 0.0.1</TextBlock>
         </StackPanel>
         <StackPanel VerticalAlignment="Center">
             <TextBox Width="200" Margin="0 0 0 10"></TextBox>
